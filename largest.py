@@ -1,0 +1,6 @@
+a = int(input("write random number"))
+b = int(input("enter random number"))
+c = int(input("enter random number"))
+d = int(input("enter random number"))
+e = int(input("enter random number"))
+print(max(a,b,c,d,e))
